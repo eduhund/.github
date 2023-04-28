@@ -1,3 +1,3 @@
 # eduHund.com
-In this organization, we collect all open source code which helps us to create interactive courses.
-Our goal is to create set of tools for digital teachers and experts.
+In this organization, we create all open source code which helps us to create digital mentor.
+Our goal is to create set of tools to clone experts. Yes, literally.
